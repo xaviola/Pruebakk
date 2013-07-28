@@ -1,0 +1,6 @@
+total 16
+-rw-r--r-- 1 saasbook ubuntu  115 Jul 27 19:59 1.txt
+drwxr-xr-x 2 saasbook ubuntu 4096 Jul 27 20:00 carpetax
+-rw-r--r-- 1 saasbook ubuntu    0 Jul 27 21:03 prueba4.txt
+-rw-r--r-- 1 saasbook ubuntu   54 Jul 27 21:03 README.md
+-rw-r--r-- 1 saasbook ubuntu   63 Jul 27 19:45 salida.txt
